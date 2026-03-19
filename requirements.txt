@@ -1,0 +1,14 @@
+diffusers>=0.35
+transformers>=4.54
+sentencepiece
+protobuf
+huggingface_hub>=0.34
+tomli
+peft>=0.17
+accelerate>=1.10
+insightface
+opencv-python
+facexlib
+onnxruntime
+timm
+nunchaku @ https://modelscope.cn/models/disambo/WHL/resolve/master/nunchaku-1.1.0%2Btorch2.9-cp311-cp311-win_amd64.whl
